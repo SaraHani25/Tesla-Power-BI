@@ -9,22 +9,21 @@ Sales per Model: This metric calculates the average number of units sold per mod
 # Model-Specific Insights
 
 Model 3:
-
 Highest total revenue among all models, indicating strong sales and pricing.
 Largest production volume, suggesting high demand and efficient manufacturing.
 Consistent sales per model, suggesting a stable sales performance.
-Model S:
 
+Model S:
 Lower total revenue compared to Model 3, potentially due to higher pricing.
 Production volume is lower than Model 3, indicating a smaller market segment.
 Sales per model are relatively high, suggesting premium pricing and a loyal customer base.
-Model X:
 
+Model X:
 Total revenue is moderate, falling between Model 3 and Model S.
 Production volume is also moderate, suggesting a niche market.
 Sales per model are relatively high, similar to Model S, indicating premium pricing.
-Model Y:
 
+Model Y:
 Total revenue is growing rapidly, suggesting increasing popularity.
 Production volume is also increasing, indicating strong demand.
 Sales per model are relatively high, similar to other models, suggesting premium pricing.
